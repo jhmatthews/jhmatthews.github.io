@@ -1,66 +1,35 @@
 -
   type: journal
-  title: Using context to reveal factors that affect physical activity
-  authors: Ian Li, Anind K. Dey, Jodi Forlizzi
-  journal: ACM Transactions on Computer Human Interaction
-  volume: 19 
+  title: "The impact of accretion disc winds on the optical spectra of cataclysmic variables"
+  authors: Matthews, J. H.; Knigge, C.; Long, K. S.; Sim, S. A.; Higginbottom, N.
+  journal: MNRAS
+  volume: 450
+  issue: 3
+  year: 2015
+  month: July
+  pdf: http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2015MNRAS.450.3331M&link_type=ARTICLE&db_key=AST&high=
+  url: http://adsabs.harvard.edu/abs/2015MNRAS.450.3331M
+-
+  type: journal
+  title: "Line-driven Disk Winds in Active Galactic Nuclei: The Critical Importance of Ionization and Radiative Transfer"
+  authors: Higginbottom, Nick; Proga, Daniel; Knigge, Christian; Long, Knox S.; Matthews, James H.; Sim, Stuart A.
+  journal: The Astrophysical Journal
+  volume: 789
   issue: 1
-  year: 2012
-  month: March
-  pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
-  url: http://dl.acm.org/citation.cfm?id=2147783.2147790
+  year: 2014
+  month: July
+  pdf: http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2014ApJ...789...19H&link_type=ARTICLE&db_key=AST&high=
+  url: http://adsabs.harvard.edu/abs/2014ApJ...789...19H
 -
-  type: dissertation
-  title: "Personal Informatics and Context: Using Context to Reveal Factors that Affect Behavior"
-  authors: Ian Li
-  year: 2011
-  publisher: Carnegie Mellon University
-  pdf: http://ianli.com/thesis/docs/dissertation.pdf
-  url: http://dl.acm.org/citation.cfm?id=2520311
--
-  type: conference
-  title: "Understanding My Data, Myself: Supporting Self-Reflection with Ubicomp Technologies"
-  authors: Ian Li, Anind Dey, Jodi Forlizzi
-  conference: Proceedings of UbiComp 2011
-  year: 2011
-  pages: 405-414
-  pdf: http://ianli.com/publications/2011-ianli-ubicomp-understanding-my-data.pdf
-  url: http://dl.acm.org/citation.cfm?id=2030166
--
-  type: conference
-  title: A stage-based model of personal informatics systems
-  authors: Ian Li, Anind Dey, Jodi Forlizzi
-  year: 2010
-  conference: Proceedings of CHI 2010
-  pages: 557-566
-  pdf: http://ianli.com/publications/2010-ianli-chi-stage-based-model.pdf
-  url: http://dl.acm.org/citation.cfm?id=1753326.1753409
-- 
-  type: conference
-  title: "Here's What I Did: Sharing and Reusing Web Activity with ActionShot"
-  authors: Ian Li, Jeffrey Nichols, Tessa Lau, Clemens Drews, Allen Cypher
-  conference: Proceedings of CHI 2010
-  year: 2010
-  pages: 723-732
-  pdf: http://ianli.com/publications/2010-ianli-chi-actionshot.pdf
-  url: http://dl.acm.org/citation.cfm?id=1753326.1753432
--
-  type: magazine
-  title: "Grafitter: leveraging social media for self reflection"
-  authors: Ian Li, Anind Dey, Jodi Forlizzi
-  magazine: Crossroads
-  volume: 16
+  type: journal
+  title: "A simple disc wind model for broad absorption line quasars"
+  authors: Higginbottom, Nick; Knigge, Christian; Long, Knox S.; Sim, Stuart A.; Matthews, James H.
+  journal: MNRAS
+  volume: 436
   issue: 2
-  year: 2009
-  pages: 12-13
-  url: http://dl.acm.org/citation.cfm?id=1665997.1666001
-  pdf: http://ianli.com/publications/2009-ianli-crossroads-grafitter.pdf
+  year: 2013
+  month: December
+  pdf: http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013MNRAS.436.1390H&link_type=ARTICLE&db_key=AST&high=
+  url: http://adsabs.harvard.edu/abs/2013MNRAS.436.1390H
 -
-  type: conference
-  title: Using Visualizations to Increase Compliance in Experience Sampling
-  authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, Scott Hudson
-  conference: Proceedings of UbiComp 2008
-  year: 2008
-  pages: 164-167
-  pdf: http://ianli.com/publications/2008-hsieh-ubicomp-using-visualizations.pdf
-  url: http://portal.acm.org/citation.cfm?id=1409635.1409657
+
