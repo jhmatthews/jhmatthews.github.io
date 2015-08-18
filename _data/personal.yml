@@ -1,0 +1,41 @@
+name: James Matthews
+
+label: Astrophysicist
+
+picture: /img/guitar1.jpg
+
+email: jm8g08@soton.ac.uk
+
+phone: 
+
+department: Department of Physics and Astronomy
+
+institution: University of Southampton
+
+mailing_address: >
+  Southampton 
+  SO17 1BJ
+
+
+profiles:
+  -
+    network: LinkedIn
+    username:
+    url: 
+  -
+    network: Twitter
+    username: tigerrrboy
+    url: https://twitter.com/tigerrrboy/
+  -
+    network: Github
+    username: jhmatthews
+    url: https://github.com/jhmatthews/
+
+intro:
+  title: Hello!
+  body: >
+    I'm an astrophysics PhD student studying at the University of Southampton.
+    My research involves using a Monte Carlo radiative transfer code to model 
+    accretion disk winds and the spectral features they produce. 
+    I am supervised by Professor Christian Knigge. You can find more details
+    on my research, outreach and publications below.
